@@ -1,0 +1,62 @@
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+li {
+	list-style: none;
+}
+a,
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: inherit;
+	font-size: inherit;
+}
+img {
+	vertical-align: top;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: 600;
+}
+h2 {
+    font-weight: 600;
+}
+.img {
+    font-style: italic;
+}
+.text1 {
+    color: #000080;
+}
+.text2 {
+    color: #800080;
+}
+.text3 {
+    color: #32CD32;
+}
+.block1 p {
+    color: #FF0000;
+}
+.block1 h2 {
+    color: #00BFFF;
+}
+.block1 div{
+    color: #4B0082;
+}
+.textc {
+    background: #DCDCDC;
+    font-style: italic;
+}
